@@ -1,0 +1,5 @@
+DAY 4
+ 
+     CSS
+ covered the fundamentals of css and explained its significance on web development.css is the language which makes the page more presentable.
+ With html ,css can be added in format <style>...</style> and can be stored in format : style.css

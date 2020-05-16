@@ -1,0 +1,7 @@
+DAY 5
+   Javascript
+   
+
+
+      Explained about Javascript  fundamentals and significance.All these 3 languages are equally important in web development.
+ Explained many uses of Javascript.

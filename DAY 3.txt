@@ -1,0 +1,5 @@
+DAY 3
+ HTML   
+      covered basics on HTML and studied its fundamentals.
+      Mentor also taught about the importance of html and its significance in webdevelopment.  
+      
