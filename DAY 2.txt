@@ -1,0 +1,3 @@
+DAY-2
+      
+          Session on Github account creation and introduction to Github.How to create a repository and add a folder to git and also explained about git fundamentals.
