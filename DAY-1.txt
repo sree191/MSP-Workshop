@@ -1,6 +1,6 @@
 Day 1
-      It was a session on introduction to web development.Three languages are basics for web development-html,css,javascript.
-Web development is a long process which can be only completed in a long time.So they thought about
+      It was a session on introduction to web development.Three languages are basically needed for web development-html,css,javascript.
+Web development is a long process which can be only studied in a long  period of time.Explained well about the course and significance.
   
 
 
